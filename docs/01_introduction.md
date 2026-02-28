@@ -84,6 +84,21 @@ You can't just do trade-off analysis once and be done with it
 
 ## Second Law: Why is more important than How
 
+If someone shows me a architecture I've never seen before, I can understand 
+how it works but I might struggle with why the previous architect or team made
+certain decisions. 
+
+Architects make decisions within specific contexts, making difficult decisions.
+Why an architect made a particular decision includes the trade-offs they 
+considered.
+
+## Third Law: Most architecture decisions aren't binary
+
+Most architecture decisions aren't binary but rather exist on a spectrum 
+between extremes.
+
+
+
 
 
 
