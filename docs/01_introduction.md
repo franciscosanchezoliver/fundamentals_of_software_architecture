@@ -66,9 +66,23 @@ development teams on what is and what isn't allowed.
 
 # Laws of Software Architecture
 
+Things that seems universally true about software architecture, we call this
+"laws" of software architecture.
+
+## First Law: Everything in software architecture is a trade-off
+
+Nothing exists on a nice, clean spectrum. Every decision a software architect
+make must account for a large number of variables that take on different 
+values depending on the circumstances. Trade-offs are the essense of software
+archicture decisions.
+
+If you think you've discovered something that isn't a trade-off, more like
+you just haven't identified the trade-off, yet.
+
+You can't just do trade-off analysis once and be done with it
 
 
-
+## Second Law: Why is more important than How
 
 
 
