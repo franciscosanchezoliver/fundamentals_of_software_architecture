@@ -98,6 +98,49 @@ Most architecture decisions aren't binary but rather exist on a spectrum
 between extremes.
 
 
+# Expectations of an Architect
+
+We've identified 8 core expectations:
+- Make architecture decisions.
+- Continually analyze the architecture.
+- Keep current with latest trends.
+- Ensure compliance with decisions.
+- Understand diverse technologies, frameworks, platforms and environments.
+- know the business domain.
+- Lead a team and possess interpersonal skills.
+- Understand and navigate through organizational politics. 
+
+
+## Make Architecture Decisions
+
+An architect is expected to define the architecture decisions and design 
+principles used to guide technology decisions within the team, within the 
+department, or across the company.
+
+Guide is the key word here, architects should guide technology choices rather
+than just specify them. He has to guide the development team to choose the 
+right tool. 
+
+But sometimes, the architect has to decide for the team to preserve a particular
+characteristic (scalability, performance,..).
+
+## Continually Analyze the Architecture
+
+An architect is expected to continually analyze the architecture and the 
+current technology context, and recommend ways of improvement.
+
+Architecture vitality assesses how viable an architecture is after a few 
+years, given changes in both the business domain and technology.
+
+Architectures experiment structural decay, due to devolopers making changes
+in code and design, and this impact the architectural characteristics. 
+
+Other important aspect is testing and release, it't important to be able to 
+modify code quickly. If it take weeks to test the changes and months to release
+a new version, we cannot consider that the architecture has agility. 
+
+
+## Keep Current with Latest Trends
 
 
 
